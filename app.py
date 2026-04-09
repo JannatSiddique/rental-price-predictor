@@ -7,7 +7,7 @@ import streamlit as st
 CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
 sys.path.append(CURRENT_DIR)
 
-from preprocessing import preprocess
+from src.preprocessing import preprocess
 
 MODEL_PATH = os.path.join(CURRENT_DIR, "..", "models", "rent_predictor.pkl")
 
