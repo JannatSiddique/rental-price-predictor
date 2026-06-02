@@ -1,0 +1,7 @@
+▲ Next.js 16.2.6 (webpack)
+- Local:         http://localhost:3001
+- Network:       http://192.168.100.108:3001
+- Environments: .env.local
+✓ Ready in 970ms
+  Skipping creating a lockfile at C:\Users\Jannat Siddique\Documents\rental-price-predictor\frontend\.next\dev\lock because we're using WASM bindings
+[?25h
